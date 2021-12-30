@@ -7,11 +7,11 @@ I have been posting some [python scripts for asset allocation](https://github.co
 But today's project aims to approach the two actions at the same time. We made a python script that makes a web scrapping in the Capilano University webpage (my University). </br>
 
 **Steps for the Project**:
- . Writte a web scrapping with Python to get the email from the professors
- . Save them in a file
- . Share the Jupyter Notebook in my GitHub page
- . Writte an article in my LinkedIn page explain the project, with the link for the repository
- . Writte an email for my professors, talking about myself and my study interests, and sending them the links for my LinkedIn page and for the GitHub repository
+- Writte a web scrapping with Python to get the email from the professors
+- Save them in a file
+- Share the Jupyter Notebook in my GitHub page
+- Writte an article in my LinkedIn page explain the project, with the link for the repository
+- Writte an email for my professors, talking about myself and my study interests, and sending them the links for my LinkedIn page and for the GitHub repository
  
 
 
