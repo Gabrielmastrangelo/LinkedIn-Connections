@@ -13,4 +13,4 @@ But today's project aims to approach the two actions at the same time. We made a
 - Writte an article in my LinkedIn page explain the project, with the link for the repository
 - Writte an email for my professors, talking about myself and my study interests, and sending them the links for my LinkedIn page and for the GitHub repository
  
-(My LinkedIn Webpage)[https://www.linkedin.com/in/gabriel-canuto/]
+[My LinkedIn Webpage](https://www.linkedin.com/in/gabriel-canuto/)
